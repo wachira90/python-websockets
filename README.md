@@ -1,6 +1,13 @@
 # python-websockets
 python websockets
 
+websockets requires Python ≥ 3.7.
+
+Install websockets with:
+
+````
+pip install websockets
+````
 
 Here’s how a client sends and receives messages:
 
